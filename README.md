@@ -42,3 +42,7 @@ y abrir `http://localhost:8000`.
 ## Sitio en vivo
 
 Publicado con GitHub Pages: https://tec-girl.github.io/smarttwin.github.io/
+
+## Contribuidores
+
+Contribución preparada en colaboración por **psehgaft**, **san985tos**, **frankjunker87-arch** y **tec-girl**.
